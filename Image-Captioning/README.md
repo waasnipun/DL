@@ -41,9 +41,9 @@ The CNN encoder is followed by a recurrent neural network (LSTM) that generates 
 ## Results
 
 <div align="center">
-    <img src="images/results_1.jpg" alt="Logo">
-    <img src="images/results_2.jpg" alt="Logo">
     <img src="images/results_3.jpg" alt="Logo">
+    <img src="images/results_2.jpg" alt="Logo">
+    <img src="images/results_1.jpg" alt="Logo">
 </div>
 
 
